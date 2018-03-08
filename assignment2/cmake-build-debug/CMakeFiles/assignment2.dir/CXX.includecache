@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2/LL.cpp
+LL.h
+C:/Users/colem/Documents/_school/dataStructures/assignment2/LL.h
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2/LL.h
+iostream
+-
+ctime
+-
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2/StudentList.cpp
+StudentList.h
+C:/Users/colem/Documents/_school/dataStructures/assignment2/StudentList.h
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2/StudentList.h
+iostream
+-
+ctime
+-
+sstream
+-
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2/main.cpp
+iostream
+-
+ctime
+-
+sstream
+-
+LL.cpp
+C:/Users/colem/Documents/_school/dataStructures/assignment2/LL.cpp
+StudentList.cpp
+C:/Users/colem/Documents/_school/dataStructures/assignment2/StudentList.cpp
+

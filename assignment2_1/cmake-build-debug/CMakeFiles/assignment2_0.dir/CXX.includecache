@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2.0/SLL.cpp
+iostream
+-
+ctime
+-
+sstream
+-
+studentClass.cpp
+C:/Users/colem/Documents/_school/dataStructures/assignment2.0/studentClass.cpp
+
+C:/Users/colem/Documents/_school/dataStructures/assignment2.0/studentClass.cpp
+iostream
+-
+

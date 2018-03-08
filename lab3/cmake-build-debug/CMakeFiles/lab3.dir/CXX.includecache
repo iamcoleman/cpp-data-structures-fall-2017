@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/colem/Documents/_school/dataStructures/lab3/DiceGame.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+fstream
+-
+stdlib.h
+-
+cstdio
+-
+sstream
+-
+
